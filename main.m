@@ -1,0 +1,2 @@
+H=calculate();
+stiching(H);
