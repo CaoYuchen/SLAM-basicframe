@@ -1,0 +1,13 @@
+Kinect:
+
+ROS:
+fx = 525.0  # focal length x
+fy = 525.0  # focal length y
+cx = 319.5  # optical center x
+cy = 239.5  # optical center y
+
+
+FR2:
+fx	fy	cx	cy	d0	d1	d2	d3	d4
+520.9	521.0	325.1	249.7	0.2312	-0.7849	-0.0033	-0.0001	0.9172
+Freiburg 2 Depth	1.031
